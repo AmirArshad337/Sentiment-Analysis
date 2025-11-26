@@ -1,8 +1,8 @@
 # Sentiment analysis for youtube comments
 
-his project analyzes the sentiments of comments on YouTube videos to determine whether the opinions expressed are positive, negative, or neutral. It helps in understanding public perception about videos, channels, or content topics.
+his project analyzes the sentiments of comments on YouTube videos to determine whether the opinions expressed are positive, negative, or neutral. It helps in understanding public perception about videos, channels, or content topics.<b>
 <b>
-Key Features:
+Key Features:<b>
 
 Fetches comments using YouTube API.
 
@@ -13,7 +13,6 @@ Uses Natural Language Processing (NLP) techniques to classify sentiments.
 Generates summary reports or visualizations (like sentiment distribution).
 
 Can help creators or marketers gauge audience reactions and feedback.
-</br>
 
 ```
 
